@@ -5,3 +5,10 @@ struct t_car
  weight, length, height, width: double;
  color: TColor;
 }
+
+
+// struct wheel
+{
+ diameter: real;
+ isVoronenied: bool;
+}
