@@ -7,3 +7,8 @@ if sin(fi)>0.5
   print('Sin (0.63) > 0.5')
 else
   print('Sin (0.63) < 0.5')
+
+
+from math import asin
+x = asin(0.53)
+print('Asin(0.53) = ', asin(0.53))
