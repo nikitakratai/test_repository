@@ -8,3 +8,9 @@ for (i=0,i++,i==10):
  end;
 end;
 
+if (2+3<7):
+  print(2+3<7)
+else
+{
+  print('2+3>=7')
+  }
