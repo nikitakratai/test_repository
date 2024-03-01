@@ -1,4 +1,9 @@
 # this is a test python file to add into the project
+
+def new_function(function_first_arg, function_second_arg)
+  exit_of_the_function = function_first_arg + function_second_arg
+  return exit_of_the_function
+
 import math
 fl=0.63
 print(sin(fl))
