@@ -29,4 +29,8 @@ for i in range(1, 10, 1)
   if (mod(i,2)==1)==True
     print(i,' is an odd number')
   else
-    print(i, ' is an even number')
+    print(i, ' is an even number
+
+print('Finish.')
+
+          
