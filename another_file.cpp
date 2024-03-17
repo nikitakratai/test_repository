@@ -16,10 +16,20 @@ for (i=0,i++,i==10):
 end;
 
 if (2+3<7):
-  print('2+3<7')
+  print('2+3<7');
 else
 {
-  print('2+3>=7')
+  print('2+3>=7');
   }
 
 return 0
+
+float function_number_one(float a,b)
+{
+  fout=sqrt(a)-b;
+  return fout;
+}
+
+
+
+  
