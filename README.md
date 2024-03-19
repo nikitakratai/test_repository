@@ -34,7 +34,7 @@ end;
 end;
 
 //what to do?
-// 18.03.2024 - new siring.
+// 18.03.2024 - new string.
 
 
 
