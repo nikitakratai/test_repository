@@ -30,6 +30,11 @@ float function_number_one(float a,b)
   return fout;
 }
 
+int ceil(float a,b)
+{
+  return function_number_one(a,b);
+}
+
 
 
   
