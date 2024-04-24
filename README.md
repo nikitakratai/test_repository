@@ -30,7 +30,7 @@ for i=1:l
  s(10)=xor(s(1:9))
  s(1)=s(10)
 end;
-print(s2);
+print('s2:',s2);
 end;
 
 //what to do?
