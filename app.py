@@ -33,4 +33,9 @@ for i in range(1, 10, 1)
 
 print('Finish.')
 
+
+# list comprehension sample
+fruits = ["apple", "banana", "cherry", "kiwi", "mango", "orange", "pineapple"]
+list1 = [x for x in fruits if "a" in x]
+print(list1)
           
