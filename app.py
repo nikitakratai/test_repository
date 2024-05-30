@@ -39,3 +39,6 @@ fruits = ["apple", "banana", "cherry", "kiwi", "mango", "orange", "pineapple"]
 list1 = [x for x in fruits if "a" in x]
 print(list1)
           
+words = ['cat', 'window', 'defenestrate']
+for w in words:
+  print(w, len(w))
