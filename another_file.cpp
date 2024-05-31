@@ -35,6 +35,9 @@ int ceil(float a,b)
   return function_number_one(a,b);
 }
 
-
+int my_munc1 (float a,b)
+{
+  return ceil(a,-b);
+}
 
   
