@@ -20,3 +20,8 @@ print("Found a number", num)
 import sys
 sys.ps1
 sys.ps2
+
+squares = [1, 4, 9, 16, 25]
+A=squares[0] #1
+B=squares[-1] #25
+C=squares[-3:] # [9, 16, 25]
